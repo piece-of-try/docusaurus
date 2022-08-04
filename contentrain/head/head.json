@@ -15,7 +15,12 @@
     "descriptiona": "<p>a</p>",
     "img": "static/1659606718016_favicon.ico",
     "imgAlt": "a",
-    "deneme": [],
+    "deneme": {
+      "ID": "2cd3ef5a-902e-4c03-963c-048afaffc853",
+      "deneme": [],
+      "a": "a",
+      "createdAt": 1659606727797
+    },
     "createdAt": 1659606719708
   }
 ]
