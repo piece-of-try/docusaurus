@@ -17,7 +17,11 @@
     "imgAlt": "a",
     "deneme": {
       "ID": "2cd3ef5a-902e-4c03-963c-048afaffc853",
-      "deneme": [],
+      "deneme": {
+        "ID": "0fb9243b-262e-4ea7-9961-7a216b4f0776",
+        "a": "a",
+        "createdAt": 1659606859347
+      },
       "a": "a",
       "createdAt": 1659606727797
     },
